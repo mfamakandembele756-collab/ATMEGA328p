@@ -490,6 +490,9 @@ border-bottom-right-radius: 5px;
 }
 
 
+. column p a:hover{
 
+color:var(--orange) ;
 
+}
 
