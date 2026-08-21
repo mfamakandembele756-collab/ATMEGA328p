@@ -484,6 +484,12 @@ border-bottom-right-radius: 5px;
     }
 
 
+.column p a{
+    text-decoloration:none;
+    color:white;
+}
+
+
 
 
 
